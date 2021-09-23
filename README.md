@@ -1,5 +1,2 @@
-# hello-world  
-
-Hi Humans!
-
-i like computer programming.
+# hello-world
+Just the first repository
